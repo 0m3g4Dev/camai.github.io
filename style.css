@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-image: url('/assets/back.jpeg'); /* Reemplaza 'fondo.png' con la ruta correcta si es necesario */
+    background-image: url('https://cdn.osxdaily.com/wp-content/uploads/2021/10/Chroma-Blue-768x768.jpeg'); /* Reemplaza 'fondo.png' con la ruta correcta si es necesario */
     background-size: cover; /* Esto ajusta la imagen para cubrir todo el fondo */
   
   }
